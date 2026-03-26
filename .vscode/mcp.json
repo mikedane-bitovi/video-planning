@@ -2,9 +2,13 @@
 	"servers": {
 		"com.atlassian/atlassian-mcp-server": {
 			"type": "http",
-			"url": "https://mcp.atlassian.com/v1/mcp",
-
+			"url": "https://mcp.atlassian.com/v1/mcp"
+		},
+		"com.figma.mcp/mcp": {
+			"type": "http",
+			"url": "https://mcp.figma.com/mcp",
 		}
+
 	},
 	"inputs": []
 }

@@ -53,31 +53,11 @@ Every video we produce falls into one of five categories. Together they cover th
 
 We produce three types of content each week: **2 anchor videos**, **3 shorts**, and **long-form** content opportunistically. Shorts and anchor videos can be paired — a short teases a topic one day, the fuller anchor drops the next. Not every short needs a pair; some stand alone or react to timely news. The mix keeps the feed varied.
 
-**Shorts (≤60 seconds)** — conceived and shot as short-form content, not repurposed clips from anchor videos.
+**Shorts (~60–120 seconds)** — conceived and shot as short-form content, potentially repurposed clips from anchor videos. Always include CTA at the end.
 
-- **S1 — The Reveal:** Open on the finished output, no intro. Spend 20–30 seconds showing it working. Close with a line that creates intrigue or points to the anchor.  
-  *Arc: Result → Quick proof → Intrigue hook*
-- **S2 — The Hot Take:** One pointed opinion on something timely. No demo needed — the value is the perspective, fast. Shelf life: under a week.  
-  *Arc: The event → What it actually means → Sharp close*
-- **S3 — The Before/After:** Old way vs. new way, side by side. The contrast is self-evident.  
-  *Arc: Before (relatable pain) → After (desirable outcome) → "Here's how"*
-
-**Anchor Videos (2–3 minutes)** — the primary lead-gen vehicles. Every anchor ends with a direct CTA.
-
-- **A1 — The Workflow Demo:** The workhorse. Lead with payoff, show the how, surface one place it breaks, close with consequence + CTA.  
-  *Arc: Result → Demo → Twist → Consequence → CTA*
-- **A2 — The Comparison:** Two tools, approaches, or models. One clear winner with honest caveats about when the other choice makes sense.  
-  *Arc: Setup the choice → Show both → Declare winner + caveat → Implications → CTA*
-- **A3 — The Readiness Frame:** No demo. A direct take on what good looks like in a team effectively using AI — and what's missing in teams that aren't. Best for leadership audience, DORA metrics, ROI framing.  
-  *Arc: What good looks like → The gap most teams have → One concrete action → CTA*
-- **A4 — The Case Snapshot:** A real outcome from a client engagement, compressed. "We did this for a team of 40 developers. Here's what changed."  
-  *Arc: The situation → What we built → The measurable result → "We can do this for your team" → CTA*
+**Anchor Videos (3–5 minutes)** — the primary lead-gen vehicles. Every anchor ends with a direct CTA.
 
 **Long-form and Live (15–25 minutes)** — produced when there's a good reason: a deep technical walkthrough, a guest, a live Q&A.
-
-- **L1 — The Deep Dive:** Full walkthrough with real code or config shown. Can double as workshop content or client handoff.  
-  *Arc: What we're building → Why it matters → Full walkthrough → Where it breaks → CTA / resources*
-- **L2 — The Live Session / Q&A:** Guest conversation, live demo, or open-ended exploration. No fixed template.
 
 ### What We Know Already Works
 
@@ -98,21 +78,6 @@ Bitovi has substantial training and demo content ready to mine for video. The go
 For any topic sourced from this library, production cost is low — the demo work is largely done. Prioritize these accordingly when sequencing the backlog.
 
 ## Making Every Video Work
-
-### The Script Formula
-
-1. **Hook** — Lead with the result. "Did you know you could do this?"
-  - *"I didn't know that was actually possible yet."*
-2. **Demo** — Show it working. Real tools, real output. Hands-on energy.
-  - *"These people are actually building this."*
-  - *"I want this for my team — and honestly, for myself."* 
-3. **The Consequence** - Give the viewer a reason to care beyond the demo — time saved, team scale, personal capability.
-3a. **The Twist** — Name one place this typically breaks. Intellectual honesty builds more trust than polish.
-3b. **Scale-Up** — Frame the consequence at two levels: for the team (velocity, DORA metrics, governance) and for the exec who's getting their own hands dirty (what does this unlock for someone building things themselves, and what does it mean for how they'd run their team differently?).
-5. **CTA** — A *utility click* ("See the workflow architecture"), not a *sales click* ("Contact us").
-  - *"I need to see where my team stands."*
-
-Remember the main goal of these videos is to get people to hire Bitovi. Every element of the script should serve that goal — whenever possible try to allude to Bitovi without being overt. The content should serve as a subtle CTA.
 
 ### Presentation & Packaging
 
@@ -148,7 +113,7 @@ Each week's content is produced on a 5-day cycle, then released the following we
 
 | Day | Work |
 |---|---|
-| **Day 1** | Select 5 topics for the week; write all scripts (hook, key beats, CTA) |
+| **Day 1** | Select 5 topics for the week; begin spec writing process (hook, key beats, CTA) |
 | **Day 2** | Batch-film all presenter takes using green screen + teleprompter; anchor videos filmed first |
 | **Day 3** | Record all screen captures and live demos; create graphics, diagrams, and overlays |
 | **Day 4** | Edit and composite all 5 videos; export in proper formats (shorts in 9:16 for mobile) |
